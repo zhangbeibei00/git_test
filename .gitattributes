@@ -1,0 +1,6 @@
+Name_docID.txt filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+getscore.py filter=lfs diff=lfs merge=lfs -text
+myDictionary.pkl filter=lfs diff=lfs merge=lfs -text
+name_docID.pkl filter=lfs diff=lfs merge=lfs -text
+newtest.py filter=lfs diff=lfs merge=lfs -text
